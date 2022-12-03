@@ -1,6 +1,7 @@
-#heading {
+.heading {
 	font-size: 100px;
 	text-align: center;
+	margin: 0;
 }
 
 .noback {
@@ -8,4 +9,23 @@
 	margin-left: auto;
 	margin-right: auto;
 	background: transparent;
+}
+
+#image {
+	background: transparent;
+	width: 20%;
+}
+
+#cancel {
+	font-size: 150px;
+	text-align: center;
+	margin: 0;
+}
+
+#move {
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	margin: 0;
+	margin-left: 5px;
 }
